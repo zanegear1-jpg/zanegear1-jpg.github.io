@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zanegear1-jpg.github.io/sitemap.xml
